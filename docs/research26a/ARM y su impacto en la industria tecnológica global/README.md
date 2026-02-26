@@ -77,10 +77,44 @@ graph TD
 
 El próximo gran impacto de ARM está en los Vehículos Definidos por Software (SDV). Los coches modernos, especialmente los eléctricos y autónomos, requieren procesar terabytes de datos de sensores y cámaras en tiempo real sin agotar la batería del auto. ARM domina este sector gracias a su plataforma ARM Automotive, utilizada por marcas como Tesla y NVIDIA para la conducción autónoma.
 
-## 6. Conclusión
-El impacto de ARM en la industria global es irreversible. Al separar el diseño de la arquitectura de la fabricación física, ARM permitió la explosión del IoT y la computación móvil. Hoy, con la integración de Inteligencia Artificial (NPU) directamente en los chips, ARM está lista para definir la próxima década tecnológica, desplazando a arquitecturas antiguas en casi todos los frentes.
 
-## 7. Referencias Bibliográficas
+## 6. Impacto de ARM en el Software y los Sistemas Operativos
+
+El crecimiento de ARM no solo ha transformado el hardware, sino también el desarrollo de software y sistemas operativos. Durante décadas, la mayoría del software fue optimizado para arquitecturas x86, lo que obligó a la industria a adaptarse rápidamente al crecimiento de ARM.
+
+### A. Sistemas Operativos Adaptados a ARM
+
+Hoy los principales sistemas operativos ya soportan ARM de forma nativa:
+
+- Microsoft ha desarrollado **Windows on ARM**, optimizando el sistema para laptops eficientes y siempre conectadas.  
+- Google diseñó **Android** específicamente para ARM, lo que permitió el auge global de los smartphones.  
+- Las distribuciones de **Linux** han adoptado ARM en servidores, IoT y supercomputadoras.  
+- Apple optimizó **macOS** para Apple Silicon, demostrando que ARM puede manejar cargas profesionales sin sacrificar compatibilidad.
+
+### B. Cambios en el desarrollo de aplicaciones
+
+El auge de ARM ha impulsado nuevas prácticas en el desarrollo de software:
+
+- Compilación multiplataforma (x86 + ARM)
+- Uso de contenedores y virtualización
+- Software optimizado para eficiencia energética
+- Mayor dependencia de frameworks portables
+
+Herramientas modernas como Docker, compiladores LLVM y lenguajes como Rust o Go facilitan el desarrollo multiplataforma, reduciendo la dependencia de una arquitectura específica.
+
+### C. El futuro del software optimizado por eficiencia
+
+Con ARM dominando móviles, IoT y creciendo en la nube, el software moderno se diseña cada vez más pensando en:
+
+- Rendimiento por watt
+- Procesamiento distribuido
+- Inteligencia artificial local en el dispositivo
+- Optimización térmica
+
+Esto marca un cambio cultural: el software ya no se diseña solo para potencia máxima, sino para eficiencia inteligente.
+## 7. Conclusión
+El impacto de ARM en la industria global es irreversible. Al separar el diseño de la arquitectura de la fabricación física, ARM permitió la explosión del IoT y la computación móvil. Hoy, con la integración de Inteligencia Artificial (NPU) directamente en los chips, ARM está lista para definir la próxima década tecnológica, desplazando a arquitecturas antiguas en casi todos los frentes.
+## 8. Referencias Bibliográficas
 
 1.  **Rodrigo Alonso (Hardzone.es).** *Todo lo que necesitas saber sobre los procesadores ARM*
     * (https://hardzone.es/tutoriales/componentes/procesador-arm/)
